@@ -1,0 +1,4 @@
+com\nagarro\employeemanagementapi\repositories\EmployeeRepository.class
+com\nagarro\employeemanagementapi\controller\EmployeeController.class
+com\nagarro\employeemanagementapi\EmployeeManagementApiApplication.class
+com\nagarro\employeemanagementapi\model\Employee.class
