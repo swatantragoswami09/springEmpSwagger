@@ -16,7 +16,7 @@ public class EmployeeManagementApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeManagementApiApplication.class, args);
-		System.out.println("app started")
+		System.out.println("app started");
 	}
 	
 	@Bean
